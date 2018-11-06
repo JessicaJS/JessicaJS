@@ -97,3 +97,10 @@ body {
 .item img {
        max-width: 95%;
 }
+
+.arrow img {
+    display: block;
+    position: relative;
+    width: 270px;
+    padding-left: 26%;
+}
